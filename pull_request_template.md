@@ -51,6 +51,11 @@ Link to Jira task.
 - [ ] 🎯 The code is properly formatted and adheres to the project's style guide
 - [ ] 🎯 The code runs without any errors or exceptions
 
+## Compute Environment
+<!--
+Where does this code need to run? Locally? EC2 instance? AWS Batch? Somewhere else?
+-->
+
 ## Testing
 <!-- 
 Specify how to test the code and where test files are located.
