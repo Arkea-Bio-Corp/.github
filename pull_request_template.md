@@ -13,6 +13,7 @@
 ## What type of PR is this? (check all applicable)
 
 - [ ] 🍕 Feature
+- [ ] 📗 Analysis
 - [ ] 🐛 Bug Fix
 - [ ] 📝 Documentation Update
 - [ ] 🎨 Style
