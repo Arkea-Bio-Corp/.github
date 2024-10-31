@@ -27,7 +27,6 @@
 
 ## Description
 <!-- 
-Please do not leave this blank 
 This PR [adds/removes/fixes/replaces] the [feature/bug/etc]. 
 -->
 
@@ -41,16 +40,18 @@ Link to Jira task.
 - [ ] 👍 yes
 - [ ] 🙅 no, because they aren't needed
 - [ ] 🙋 no, because I need help
+- [ ] ⏲️ not yet?
 
 ## Added to documentation?
 
 - [ ] 📜 README.md
 - [ ] 📕 notebook(s)
+- [ ] 💬 updated comments (in-line/docstrings)
 - [ ] 🙅 no documentation needed
 
 ## Code Quality
 - [ ] 🎯 The code is properly formatted and adheres to the project's style guide
-- [ ] 🎯 The code runs without any errors or exceptions
+- [ ] 🏃 The code runs without any errors or exceptions
 
 ## Compute Environment
 <!--
@@ -59,6 +60,5 @@ Where does this code need to run? Locally? EC2 instance? AWS Batch? Somewhere el
 
 ## Testing
 <!-- 
-Specify how to test the code and where test files are located.
-Required for tools/pipelines. 
+Specify how to test the code and where test files are located. Required for tools/pipelines. 
 -->
