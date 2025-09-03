@@ -18,6 +18,8 @@
 - [ ] 📝 Documentation Update
 - [ ] 🎨 Style
 - [ ] 🧑‍💻 Code Refactor
+- [ ] 📕 Notebook(s)
+- [ ] 📐 Schema Changes
 - [ ] 🔥 Performance Improvements
 - [ ] ✅ Test
 - [ ] 🤖 Build
