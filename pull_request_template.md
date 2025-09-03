@@ -4,7 +4,7 @@
 
      Before submitting a Pull Request, please ensure you've done the following:
      - 📖 Read the ArkeaBio Code Review Policy: https://docs.google.com/document/d/1yX6rkFrQQhdozEB8OBE9jWsQZgDMw3KS0DLd7MWPEAo/edit#heading=h.tgvpr2mcrxkb
-     - 👷‍♀️ Create small PRs. 
+     - 👷‍♀️ Create small PRs. Seriously!
      - ✅ Provide tests for your changes.
      - 📝 Use descriptive commit messages.
      - 📗 Update any related documentation and include any relevant screenshots.
